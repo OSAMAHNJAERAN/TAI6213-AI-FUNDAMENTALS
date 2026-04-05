@@ -17,7 +17,7 @@ The **Intelligent Tic-Tac-Toe** project is an interactive terminal-based game en
 
 ## 📷 Screenshots
 
-![AI Gameplay](assets/tictactoe.png)
+![AI Gameplay](media/gameplay.png)
 *Figure 1: A user attempting (and failing) to defeat the Minimax-driven AI in the terminal.*
 
 ## 📂 Project Structure
