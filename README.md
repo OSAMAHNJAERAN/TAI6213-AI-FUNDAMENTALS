@@ -1,4 +1,6 @@
-# 🤖 Intelligent Tic-Tac-Toe
+﻿# 🤖 Intelligent Tic-Tac-Toe
+
+### 📘 Course Project: TAI6213-AI FUNDAMENTALS
 
 [![Language: Lisp](https://img.shields.io/badge/Language-Common_Lisp-000000?style=for-the-badge&logo=lisp)](https://lisp-lang.org/)
 [![Course: Semester 6](https://img.shields.io/badge/Course-Semester_6-blueviolet?style=for-the-badge)]()
